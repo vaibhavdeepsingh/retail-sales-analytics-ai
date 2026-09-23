@@ -1,7 +1,7 @@
 """
 Retail Sales Data Analytics & AI-Based Demand Forecasting
 -----------------------------------------------------------
-Author : <Your Name>
+Author : <Vaibhavdeep Singh>
 Program: AICTE | IBM SkillsBuild - Data Analytics with AI Internship 2026
 
 Description:
